@@ -1,26 +1,26 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]//
 //2023.6.24更新//
 {
-"spider":"https://gitee.com/jshfhdjygwgjd/xin-tvbox/blob/master/xin.jar",
+"spider":"https://github.com/19943169103/tvbox/blob/main/xin.jar",
 
 
 
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vanNoZmhkanlnd2dqZC94aW4tdHZib3gvcmF3L21hc3Rlci9saXZlLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tLzE5OTQzMTY5MTAzL3R2Ym94L21haW4vbGl2ZS50eHQ=]}]}],
 
 
 	"sites":[
 {"key":"T4","name":"豆瓣荐片","type":4,"api":"https://t4.secan.icu/vod?sites=all&timeout=10","searchable":0,"quickSearch":0,"filterable":1},
    
 
-{"key":"driqi","name":"官方┃爱奇艺影院","type":3,"api":"./lib/drpy2.min.js","searchable": 2,"ext": "./js/i奇异.js","jar":"https://gitee.com/jshfhdjygwgjd/xin-tvbox/blob/master/jar/custom_spider.jar"},
+{"key":"driqi","name":"官方┃爱奇艺影院","type":3,"api":"./lib/drpy2.min.js","searchable": 2,"ext": "./js/i奇异.js","jar":"https://github.com/19943169103/tvbox/blob/main/jar/custom_spider.jar"},
 
-{"key":"dr腾讯","name":"官方┃腾讯影视","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./js/腾云驾雾.js","jar":"https://gitee.com/jshfhdjygwgjd/xin-tvbox/blob/master/jar/custom_spider.jar"},
+{"key":"dr腾讯","name":"官方┃腾讯影视","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./js/腾云驾雾.js","jar":"https://github.com/19943169103/tvbox/blob/main/jar/custom_spider.jar"},
 
-{"key":"dr优酷","name":"官方┃优酷视频","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./js/优酷.js","jar":"https://gitee.com/jshfhdjygwgjd/xin-tvbox/blob/master/jar/custom_spider.jar"},
+{"key":"dr优酷","name":"官方┃优酷视频","type":3,"api":"./lib/drpy2.min.js","searchable":2,"ext":"./js/优酷.js","jar":"https://github.com/19943169103/tvbox/blob/main/jar/custom_spider.jar"},
 
-{"key":"dr忙果","name":"官方┃芒果影视","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./js/芒果.js","jar":"https://gitee.com/jshfhdjygwgjd/xin-tvbox/blob/master/jar/custom_spider.jar"},
+{"key":"dr忙果","name":"官方┃芒果影视","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./js/芒果.js","jar":"https://github.com/19943169103/tvbox/blob/main/jar/custom_spider.jar"},
 
-{"key":"dr搜狗","name":"官方┃搜狗影视","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./js/搜狗.js","jar":"https://gitee.com/jshfhdjygwgjd/xin-tvbox/blob/master/jar/custom_spider.jar"},
+{"key":"dr搜狗","name":"官方┃搜狗影视","type":3,"api":"./lib/drpy.min.js","searchable":2,"ext": "./js/搜狗.js","jar":"https://github.com/19943169103/tvbox/blob/main/jar/custom_spider.jar"},
 
 
 
